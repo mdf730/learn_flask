@@ -16,3 +16,6 @@ Traceback (most recent call last):
     form = ResetPasswordForm()
 NameError: name 'ResetPasswordForm' is not defined
 2017-12-23 14:59:02,242 INFO: Microblog startup [in /Users/mfabian1/Desktop/microblog/app/__init__.py:42]
+2017-12-23 20:26:35,115 INFO: Microblog startup [in /Users/mfabian1/Desktop/microblog/app/__init__.py:44]
+2017-12-23 20:45:07,343 INFO: Microblog startup [in /Users/mfabian1/Desktop/microblog/app/__init__.py:46]
+2017-12-23 20:56:59,420 INFO: Microblog startup [in /Users/mfabian1/Desktop/microblog/app/__init__.py:46]
